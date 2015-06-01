@@ -15,7 +15,7 @@ setup(
     version=__version__,
     description='Provies wrapper objects for working with Dota2',
     long_description=long_description,
-    url='https://github.com/rossengeorgiev/dota2-python',
+    url='https://github.com/ValvePython/dota2',
     author='Rossen Georgiev',
     author_email='hello@rgp.io',
     license='MIT',
